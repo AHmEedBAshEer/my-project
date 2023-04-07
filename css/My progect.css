@@ -1,0 +1,96 @@
+span{
+    color: aqua;
+}
+html{
+    
+   font-family: 'Alkatra', cursive;
+font-family: 'Roboto Condensed', sans-serif;
+}
+h1{
+    font-size: 32px;
+    cursor: pointer;
+}
+nav{
+    padding-top: 25px;
+    
+    padding-right: 20px;
+        display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: transparent;
+    
+}
+nav a{
+    text-decoration: none;
+    font-size: 30px;
+    font-family: sans-serif;
+    text-transform: capitalize;
+    color: aqua;
+}
+
+
+ul
+{
+    color: aqua;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    margin: 0.8rem 1.5rem;
+}
+nav ul li a{
+    
+    text-transform: capitalize;
+}
+nav ul li a:hover{
+    color;black;
+    
+}
+body
+{
+    background-image: url(D:/تطبيق/IMG20230215101505.jpg);
+    background-size: 1500px 800px;
+    background-repeat: no-repeat;
+    
+}
+h3{
+    padding-top: 100px;
+    padding-left: 46px;
+    color: aqua;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h2{
+    font-size: 70px;
+    letter-spacing: 0.12rem
+}
+.button
+{
+background-color: aquamarine;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0.81rem 1.87rem;
+    border-radius: 30px;
+    width: 70px;
+    transition: 0.4s;
+    text-decoration: none;
+    
+}
+.button:hover{
+background-color: transparent;
+    border: 2px solid aqua;
+    text-decoration: none;
+        
+}
+.contect
+{
+    flex-grow: 1;
+}
+footer{
+ 
+    background-color: black;
+    
+     
+}
+
+
